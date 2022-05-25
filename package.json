@@ -1,0 +1,14 @@
+{
+  "name": "cherrypick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.5",
+    "wait-console-input": "^0.1.7"
+  }
+}
