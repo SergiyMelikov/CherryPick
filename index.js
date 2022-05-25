@@ -27,7 +27,7 @@ const parseArgs = () => ({
 
 const { branch, id } = parseArgs();
 
-const currentBranch = git.getCurrentBranch;
+const currentBranch = git.getCurrentBranch();
 
 git.checkout(branch);
 
